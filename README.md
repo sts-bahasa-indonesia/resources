@@ -6,4 +6,4 @@ Di sini Anda dapat mencari, menemukan, membuka dan menyunting, serta menambahkan
 
 ## Memulai Penerjemahan
 
-Silakan lihat **Panduan Penerjemahan** [di sini]().
+Silakan lihat **Panduan Penerjemahan** [di sini](https://github.com/sts-bahasa-indonesia/resources/blob/master/Panduan%20Terjemahan.md).
